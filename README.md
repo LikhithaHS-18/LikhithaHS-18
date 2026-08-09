@@ -19,12 +19,12 @@ I am an Electronics and Communication Engineering graduate with an interest in *
 
 ### 📂 Projects
 
-- **Address Book Management System** — C, File Handling
-- **Arbitrary Precision Calculator (APC)** — C, Doubly Linked List
-- **Inverted Search** — C, Hashing
-- **Image Steganography** — C, LSB
+- **Address Book Management System** — C, File Handling, Structures
+- **Arbitrary Precision Calculator (APC)** — C, Doubly Linked List, Data Structures
+- **Inverted Search** — C, Hashing, Linked Lists, Data Structures
+- **Image Steganography** — C, LSB Technique
 - **Car Black Box** — Embedded C, PIC18F4580
-- **16-bit Vedic Multiplier** — Digital Electronics
+- **Arduino-Based Automated Color Sorting System** — Arduino Uno, Embedded C, Color Sensor
 
 ### 💻 Programming
 
